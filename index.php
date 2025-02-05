@@ -18,7 +18,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "P@$$w0rd"; // Replace with your password!
+$password = "123456"; // Replace with your password!
 $dbname = "my_webapp";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
